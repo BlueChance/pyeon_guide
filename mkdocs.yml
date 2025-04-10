@@ -24,7 +24,7 @@ extra_css:
 
 nav: 
   - 홈: index.md
-  - 팀 소개:
+  - 💭팀 소개:
      - 팀 역사: team_introduction/team_introduction.md
      - 팀 설명: team_introduction/team_explanation.md
      - 팀 미래: team_introduction/team_future.md
@@ -34,12 +34,11 @@ nav:
   - 편 야구단 팀원 소개: team_introducing/team_introducing_members.md
   - 편 야구단 개인상해보험, 안전: insurance/team_insurance.md
   - 사회인야구 기본 예절: baseballrules/manual_manners.md
-  - 편 야구단 규정:
+  - ✅편 야구단 규정:
      - 벌금 규정: money/killyou.md
      - 경기시 권장 내용: money/good.md
   - 유니폼, 팀의류 주문 방법: uniforms/how_to_order.md
-  - 경기장 이동 방법: fields/how_to_get_there.md
-  - 야구 포지션 설명: 
+  - ⚾야구 포지션 설명: 
      - 기본 설명: about_position/basic_position.md
      - 상세 설명: about_position/position.md
   - 편 야구단 가입신청서: join/how_to_get_in_pyeon.md
