@@ -1,1 +1,1 @@
-링크: https://forms.gle/emqYjoRDrKXi6sfz8 에서 주문할 수 있습니다. 가격 역시 나와있으며 유니폼, 팀의류 모두 안내되어 있습니다.
+https://forms.gle/emqYjoRDrKXi6sfz8 에서 주문할 수 있습니다. 가격 역시 나와있으며 유니폼, 팀의류 모두 안내되어 있습니다.
