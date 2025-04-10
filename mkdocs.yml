@@ -28,17 +28,17 @@ nav:
      - 팀 역사: team_introduction/team_introduction.md
      - 팀 설명: team_introduction/team_explanation.md
      - 팀 미래: team_introduction/team_future.md
-  - 편 야구단 참여리그와 정기활동: pyeon_leage_and_activity.md
+  - 편 야구단 참여리그와 정기훈련: leagues/pyeon_league_and_activity.md
   - 편 야구단 회비, 리그비: money/team_needs_money.md
-  - 편 야구단 운영위원회 소개: team_introducing_executives
-  - 편 야구단 팀원 소개: team_introducing_members
+  - 편 야구단 운영위원회 소개: team_introducing/team_introducing_executives.md
+  - 편 야구단 팀원 소개: team_introducing/team_introducing_members.md
   - 편 야구단 개인상해보험, 안전: insurance/team_insurance.md
   - 사회인야구 기본 예절: baseballrules/manual_manners.md
   - 편 야구단 규정:
      - 벌금 규정: money/killyou.md
      - 경기시 권장 내용: money/good.md
-  - 유니폼, 팀의류 주문 방법: uniforms/how_to_order
-  - 경기장 이동 방법: fields/how_to_get_there
+  - 유니폼, 팀의류 주문 방법: uniforms/how_to_order.md
+  - 경기장 이동 방법: fields/how_to_get_there.md
   - 야구 포지션 설명: 
      - 기본 설명: about_position/basic_position.md
      - 상세 설명: about_position/position.md
