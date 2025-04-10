@@ -20,7 +20,7 @@ theme:
     text: Noto Sans KR
     code: Fira Code
 extra_css: 
-    - docs/stylesheets/extra.css
+    - stylesheets/extra.css
 
 nav: 
   - 홈: index.md
