@@ -18,3 +18,15 @@
   font-style: italic;
   font-size: 0.95em;
 }
+
+.easter-egg {
+  color: transparent;
+  user-select: text;
+  background-color: transparent;
+  cursor: help;
+}
+
+.easter-egg::selection {
+  color: white;
+  background: #1976d2;
+}
