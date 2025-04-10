@@ -41,5 +41,8 @@ nav:
   - ⚾야구 포지션 설명: 
      - 기본 설명: about_position/basic_position.md
      - 상세 설명: about_position/position.md
+  - 📄📢야구 규정:
+     - KBO 야구규정: baseballrules/2024kborules.md
+     - 파워리그 규정: baseballrules/2025powerleaguerules.md
   - 편 야구단 가입신청서: join/how_to_get_in_pyeon.md
   - 편 야구단 게임원: gameone/gameonesite.md
