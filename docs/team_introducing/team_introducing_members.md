@@ -1,7 +1,12 @@
+<style="color=#065535;">병역의무진행중</a>
+<style="color=#999999;">임시탈퇴선수</a>
+
+
+
 <strong><a href="http://www.gameone.kr/locker/?group_code=FAKOOKPDN2O000000N34JO" style="color:#999999;">No.1 박지호 (2002-06-20) 우투우타 포수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=L74FRLGQUPO000000X3C12">No.2 김진환 (1999-12-02) 우투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=2AN9V5PS7BDG000000VSKP3">No.7 임용원 (1997-08-03) 우투우타 포수</a></strong><br>
-<strong><a href="http://www.gameone.kr/locker/?group_code=UPQ70LSBNM40000009EIUR" style="color:#81d8d0;">No.8 김진영 (2004-04-19) 우투우타 내야수</a></strong><br>
+<strong><a href="http://www.gameone.kr/locker/?group_code=UPQ70LSBNM40000009EIUR" style="color:#065535;">No.8 김진영 (2004-04-19) 우투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=220559BDORJ0000000LB6MW" style="color:#999999;">No.9 이지민 (2000-09-09) 좌투좌타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=2B4J5TQRAL4G000000F4ON9">No.10 유병찬 (1996-12-09) 우투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=273CQ58QIQ400000006P7NV">No.11 권혁민 (2001-11-06) 우투우타 외야수</a></strong><br>
@@ -12,11 +17,11 @@
 <strong><a href="http://www.gameone.kr/locker/?group_code=1940UIBKCI50000000Y9FQC">No.18 김찬희 (1999-01-14) 우투우타 투수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=168GOCQOBQV00000009OMSL" style="color:#999999;">No.23 유지훈 (1994-08-12) 우투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=254N1CM0M080000000P9JQH">No.24 김민재 (2003-11-24) 우투우타 외야수</a></strong><br>
-<strong><a href="http://www.gameone.kr/locker/?group_code=28VVLK6QQKB0000000R7IDQ" style="color:#81d8d0;">No.25 장신순 (2001-08-03) 우투우타 포수</a></strong><br>
+<strong><a href="http://www.gameone.kr/locker/?group_code=28VVLK6QQKB0000000R7IDQ" style="color:#065535;">No.25 장신순 (2001-08-03) 우투우타 포수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=BP4M9JD1SHA000000RWVQA">No.27 김태영 (1997-01-29) 우투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=1LHUCRBSMHVG000000JN1R0">No.28 김찬수 (2001-09-26) 우투우타 포수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=17616H850Q8O000000XCAH7">No.29 채승병 (1996-09-05) 좌투좌타 투수</a></strong><br>
-<strong><a href="http://www.gameone.kr/locker/?group_code=2EG8T918T8V0000000FL9A6" style="color:#81d8d0;">No.30 김홍진 (2004-04-20) 우투우타 외야수</a></strong><br>
+<strong><a href="http://www.gameone.kr/locker/?group_code=2EG8T918T8V0000000FL9A6" style="color:#065535">No.30 김홍진 (2004-04-20) 우투우타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=1NN4HEOSIF3O00000058M7K">No.39 전호영 (1997-06-26) 좌투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=VKHN43QUG2G000000S9YP1">No.43 조현식 (2004-01-20) 우투우타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=1RNTBHSKFJOG000000154SN">No.44 민경일 (1997-11-28) 우투우타 내야수</a></strong><br>
