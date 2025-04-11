@@ -1,5 +1,5 @@
-<a style="color=#065535;">병역의무진행중</a><br>
-<a style="color=#999999;">임시탈퇴선수</a><br>
+<a style="color: #065535;">병역의무진행중</a><br>
+<a style="color: #999999;">임시탈퇴선수</a><br>
 
 
 
