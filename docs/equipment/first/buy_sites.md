@@ -63,7 +63,7 @@
   <a href="https://www.baseballm.com/?srsltid=AfmBOord3M_D6UZXNuzuJomTD7YZyjVLQ9JeXVGTKKsPhuzKQtmwq8-v" target="_blank" rel="noopener" style="
     display: inline-block;
     padding: 10px 18px;
-    background-color: #0e2f44;
+    background-color: #800080;
     color: white;
     border-radius: 8px;
     text-decoration: none;
