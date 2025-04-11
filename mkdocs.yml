@@ -28,7 +28,7 @@ nav:
      - 팀 역사: team_introduction/team_introduction.md
      - 팀 설명: team_introduction/team_explanation.md
      - 팀 미래: team_introduction/team_future.md
-  - 편 야구단 참여리그와 정기훈련: leagues/pyeon_league_and_activity.md
+  - 편 야구단 참여리그와 정기활동: leagues/pyeon_league_and_activity.md
   - 편 야구단 회비, 리그비: money/team_needs_money.md
   - 편 야구단 운영위원회 소개: team_introducing/team_introducing_executives.md
   - 편 야구단 팀원 소개: team_introducing/team_introducing_members.md
@@ -36,7 +36,7 @@ nav:
   - 사회인야구 기본 예절: baseballrules/manual_manners.md
   - ✅편 야구단 규정:
      - 벌금 규정: money/killyou.md
-     - 경기시 권장 내용: money/good.md
+     - 그라운드에서의 약속: money/good.md
   - ⚾야구 포지션 설명: 
      - 기본 설명: about_position/basic_position.md
      - 상세 설명: about_position/position.md

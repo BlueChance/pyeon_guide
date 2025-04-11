@@ -54,3 +54,21 @@
     💳짱베이스볼 바로가기
   </a>
 </p>
+<br>
+<br>
+
+<h3><strong>4. 메이저베이스볼 (Baseball M)</strong></h3>
+
+<p>
+  <a href="https://www.baseballm.com/?srsltid=AfmBOord3M_D6UZXNuzuJomTD7YZyjVLQ9JeXVGTKKsPhuzKQtmwq8-v" target="_blank" rel="noopener" style="
+    display: inline-block;
+    padding: 10px 18px;
+    background-color: #0e2f44;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;">
+    🎁메이저베이스볼바로가기
+  </a>
+</p>
