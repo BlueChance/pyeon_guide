@@ -29,7 +29,7 @@
 <strong><a href="http://www.gameone.kr/locker/?group_code=27F5NSND7ISG0000002MW7Y">No.47 박영준 (2001-06-01) 우투우타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=MHP0FGK27941XD5BWSAY8CZOVERNLITJ"style="color:#999999;">No.48 이주혁 (1996-04-26) 우투우타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=22TBE55SDKSG0000007LPCX">No.49 고동현 (2001-11-06) 우투우타 내야수</a></strong><br>
-<strong><a href="http://www.gameone.kr/locker/?group_code=22TBE55SDKSG0000007LPCX">No.52 김동현 (2002-12-05) 우투우타 내야수</a></strong><br>
+<strong><a href="http://www.gameone.kr/locker/?group_code=NDP77HALUQ4000000ROAMU">No.52 김동현 (2002-12-05) 우투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=24H6OV5A7JD0000000WFXZM">No.77 이도원 (2004-11-20) 우투우타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=2822GT64MOCG0000005YS2R">No.87 박상민 (1999-08-07) 우투우타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=2FS59F7ILN80000000TNW0C">No.91 이태훈 (2003-02-18) 우투우타 투수</a></strong><br>
