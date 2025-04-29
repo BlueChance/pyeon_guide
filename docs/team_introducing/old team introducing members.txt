@@ -1,11 +1,12 @@
 선수를 클릭하면 해당 선수 페이지로 이동합니다!<br>
 <a style="color: #065535;">이 색은 국방의 의무를 수행중인 선수들입니다. 모두 무사히 전역하기를 응원합니다.</a><br>
-<a style="color: #999999;">이 색은 임시결번 선수들입니다.</a><br>
+<a style="color: #999999;">이 색은 임시탈퇴 선수들입니다.</a><br>
 
 
 
 <strong><a href="http://www.gameone.kr/locker/?group_code=FAKOOKPDN2O000000N34JO" style="color:#065535;">No.1 박지호 (2002-06-20) 우투우타 포수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=L74FRLGQUPO000000X3C12">No.2 김진환 (1999-12-02) 우투우타 내야수</a></strong><br>
+<strong><a href="http://www.gameone.kr/locker/?group_code=2AN9V5PS7BDG000000VSKP3">No.7 임용원 (1997-08-03) 우투우타 포수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=UPQ70LSBNM40000009EIUR" style="color:#065535;">No.8 김진영 (2004-04-19) 우투우타 내야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=220559BDORJ0000000LB6MW" style="color:#999999;">No.9 이지민 (2000-09-09) 좌투좌타 외야수</a></strong><br>
 <strong><a href="http://www.gameone.kr/locker/?group_code=2B4J5TQRAL4G000000F4ON9">No.10 유병찬 (1996-12-09) 우투우타 내야수</a></strong><br>
